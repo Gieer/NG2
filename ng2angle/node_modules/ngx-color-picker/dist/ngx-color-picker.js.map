@@ -1,0 +1,1 @@
+{"version":3,"file":"ngx-color-picker.js","sourceRoot":"","sources":["../src/ngx-color-picker.ts"],"names":[],"mappings":";;;;;;;AAIA,oKAAwB","sourcesContent":["/**\n * Generated bundle index. Do not edit.\n */\n\nexport * from './index';\n"]}

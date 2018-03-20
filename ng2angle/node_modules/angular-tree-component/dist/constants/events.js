@@ -1,0 +1,18 @@
+export var TREE_EVENTS = {
+    toggleExpanded: 'toggleExpanded',
+    activate: 'activate',
+    deactivate: 'deactivate',
+    select: 'select',
+    deselect: 'deselect',
+    focus: 'focus',
+    blur: 'blur',
+    initialized: 'initialized',
+    updateData: 'updateData',
+    moveNode: 'moveNode',
+    copyNode: 'copyNode',
+    event: 'event',
+    loadNodeChildren: 'loadNodeChildren',
+    changeFilter: 'changeFilter',
+    stateChange: 'stateChange'
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL2xpYi9jb25zdGFudHMvZXZlbnRzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLE1BQU0sQ0FBQyxJQUFNLFdBQVcsR0FBRztJQUN6QixjQUFjLEVBQUUsZ0JBQWdCO0lBQ2hDLFFBQVEsRUFBRSxVQUFVO0lBQ3BCLFVBQVUsRUFBRSxZQUFZO0lBQ3hCLE1BQU0sRUFBRSxRQUFRO0lBQ2hCLFFBQVEsRUFBRSxVQUFVO0lBQ3BCLEtBQUssRUFBRSxPQUFPO0lBQ2QsSUFBSSxFQUFFLE1BQU07SUFDWixXQUFXLEVBQUUsYUFBYTtJQUMxQixVQUFVLEVBQUUsWUFBWTtJQUN4QixRQUFRLEVBQUUsVUFBVTtJQUNwQixRQUFRLEVBQUUsVUFBVTtJQUNwQixLQUFLLEVBQUUsT0FBTztJQUNkLGdCQUFnQixFQUFFLGtCQUFrQjtJQUNwQyxZQUFZLEVBQUUsY0FBYztJQUM1QixXQUFXLEVBQUUsYUFBYTtDQUMzQixDQUFDIiwiZmlsZSI6ImV2ZW50cy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY29uc3QgVFJFRV9FVkVOVFMgPSB7XG4gIHRvZ2dsZUV4cGFuZGVkOiAndG9nZ2xlRXhwYW5kZWQnLFxuICBhY3RpdmF0ZTogJ2FjdGl2YXRlJyxcbiAgZGVhY3RpdmF0ZTogJ2RlYWN0aXZhdGUnLFxuICBzZWxlY3Q6ICdzZWxlY3QnLFxuICBkZXNlbGVjdDogJ2Rlc2VsZWN0JyxcbiAgZm9jdXM6ICdmb2N1cycsXG4gIGJsdXI6ICdibHVyJyxcbiAgaW5pdGlhbGl6ZWQ6ICdpbml0aWFsaXplZCcsXG4gIHVwZGF0ZURhdGE6ICd1cGRhdGVEYXRhJyxcbiAgbW92ZU5vZGU6ICdtb3ZlTm9kZScsXG4gIGNvcHlOb2RlOiAnY29weU5vZGUnLFxuICBldmVudDogJ2V2ZW50JyxcbiAgbG9hZE5vZGVDaGlsZHJlbjogJ2xvYWROb2RlQ2hpbGRyZW4nLFxuICBjaGFuZ2VGaWx0ZXI6ICdjaGFuZ2VGaWx0ZXInLFxuICBzdGF0ZUNoYW5nZTogJ3N0YXRlQ2hhbmdlJ1xufTtcbiJdfQ==

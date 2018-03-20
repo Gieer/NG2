@@ -1,0 +1,11 @@
+{
+  "name": "ika.jvectormap",
+  "version": "0.0.0",
+  "description": "-",
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "readme": "-",
+  "_napaResolved": "git://github.com/kakirigi/ika.jvectormap"
+}
